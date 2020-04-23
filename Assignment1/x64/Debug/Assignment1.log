@@ -1,0 +1,4 @@
+﻿  Triangle.cpp
+F:\GitFiles\Graphics\Assignment1\Triangle.cpp(17,26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+F:\GitFiles\Graphics\Assignment1\Triangle.cpp(150,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Assignment1.vcxproj -> F:\GitFiles\Graphics\Assignment1\x64\Debug\Assignment1.exe

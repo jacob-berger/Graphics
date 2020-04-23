@@ -1,0 +1,2 @@
+F:\GitFiles\Graphics\Assignment1\x64\Debug\Assignment1.exe
+F:\GitFiles\Graphics\Assignment1\x64\Debug\Assignment1.pdb
