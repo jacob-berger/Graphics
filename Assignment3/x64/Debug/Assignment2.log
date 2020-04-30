@@ -1,0 +1,131 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Assignment2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ChineseFanBasicAnimated.cpp
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(17,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(17,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(17,38): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(17,38): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(18,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(18,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(18,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(18,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(21,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(21,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(21,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(21,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(22,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(22,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(22,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(22,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(25,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(25,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(25,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(25,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(26,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(26,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(26,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(26,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(29,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(29,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(29,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(29,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(30,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(30,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(30,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(30,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(33,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(33,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(33,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(33,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(34,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(34,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(34,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(34,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(37,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(37,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(37,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(37,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(38,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(38,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(38,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(38,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(41,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(41,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(41,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(41,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(42,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(42,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(42,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(42,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(45,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(45,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(45,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(45,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(46,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(46,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(46,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(46,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(84,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(84,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(84,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(84,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(85,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(85,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(85,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(85,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(88,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(88,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(88,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(88,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(89,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(89,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(89,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(89,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(92,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(92,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(92,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(92,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(93,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(93,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(93,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(93,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(96,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(96,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(96,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(96,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(97,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(97,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(97,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(97,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(100,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(100,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(100,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(100,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(101,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(101,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(101,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(101,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(104,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(104,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(104,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(104,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(105,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(105,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(105,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(105,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(108,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(108,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(108,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(108,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(109,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(109,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(109,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(109,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(112,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(112,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(112,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(112,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(113,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(113,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(113,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\GitFiles\Graphics\Assignment3\ChineseFanBasic.h(113,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Assignment2.vcxproj -> D:\GitFiles\Graphics\Assignment3\x64\Debug\Assignment3.exe

@@ -1,7 +1,7 @@
 #include "ChineseFan.h"
 
 GLuint  vao;
-GLuint  vbo;
+GLuint  vbo[2];
 GLuint  ebo;
 GLuint v, f;
 GLboolean show_line = false;
@@ -116,16 +116,28 @@ void init() {
 	glGenVertexArrays(1, &vao);
 	glBindVertexArray(vao);
 	
-	glGenBuffers(1, &vbo);  // you need to have two buffer objects if color is added
+	glGenBuffers(2, vbo);  // you need to have two buffer objects if color is added
+
+	glGenBuffers(1, &ebo);
+	glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, ebo);
+	glBufferData(GL_ELEMENT_ARRAY_BUFFER, sizeof(vertices), vertices, GL_STATIC_DRAW);
 	
 	// For the 1st attribute - vertex positions
 
-	glBindBuffer(GL_ARRAY_BUFFER, vbo); 
+	glBindBuffer(GL_ARRAY_BUFFER, vbo[0]); 
 	glBufferData(GL_ARRAY_BUFFER, sizeof(vertices), NULL, GL_STATIC_DRAW);
 	glBufferSubData(GL_ARRAY_BUFFER, 0, sizeof(vertices), vertices);
 	glVertexAttribPointer(0, 4, GL_FLOAT, GL_FALSE, 0, 0);
 	
 	glEnableVertexAttribArray(0);
+
+	//Color
+	glBindBuffer(GL_ARRAY_BUFFER, vbo[1]);
+	glBufferData(GL_ARRAY_BUFFER, sizeof(colors), NULL, GL_STATIC_DRAW);
+	glBufferSubData(GL_ARRAY_BUFFER, 0, sizeof(colors), colors);
+	glVertexAttribPointer(1, 4, GL_FLOAT, GL_FALSE, 0, 0);
+
+	glEnableVertexAttribArray(1);
 }
 /*******************************************************/
 void Keyboard(unsigned char key, int x, int y) {
@@ -143,6 +155,8 @@ void Keyboard(unsigned char key, int x, int y) {
 		break;
 	case 'u': case 'U':
 		vertex_update = !vertex_update;
+		if (vertex_update) glutSetWindowTitle("Chinese Fan Updated");
+		else glutSetWindowTitle("Chinese Fan");
 		break;
 	}
 	glutPostRedisplay();
@@ -168,6 +182,12 @@ void display(void) {
 
 	// add codes on updating vertices
 
+	if (vertex_update) {
+		glBufferSubData(GL_ARRAY_BUFFER, 0, sizeof(vertices_update), vertices_update);
+	}
+	else {
+		glBufferSubData(GL_ARRAY_BUFFER, 0, sizeof(vertices), vertices);
+	}
     
 	glDrawArrays(GL_TRIANGLES, 0, 24);
 	glDrawArrays(GL_POINTS, 0, 24);
